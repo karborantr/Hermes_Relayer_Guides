@@ -176,4 +176,4 @@ journalctl -u hermes -f
 
 Relayer'imiz artık düzgün çalışmaya başlamış olması gerekiyor. Kendisi gerekli kanallara bağlanarak bağlantı beklemeli ve bağlantı kurmalı. Sistemde sizin cüzdanlarınızdaki bakiyelere uygun miktarda coin/token olan istekler gelince sizin relayer'iniz cevap verecek ve gerekli transferi gerçekleştirecektir. Hermes e tanımladığınız cüzdanlarda mutlaka bakiye olmalı.
 
-thx to kj89 
+teşşekürler kj89 
