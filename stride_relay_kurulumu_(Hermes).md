@@ -99,7 +99,7 @@ gas_price = { price = 0.001, denom = 'ustrd' }
 gas_adjustment = 0.1
 max_msg_num = 15
 clock_drift = '5s'
-trusting_period = '1days'
+trusting_period = '8hours'
 memo_prefix="DiscordID#1234"
 trust_threshold = { numerator = '1', denominator = '3' }
 [[chains]]
@@ -117,7 +117,7 @@ gas_price = { price = 0.001, denom = 'uatom' }
 gas_adjustment = 0.1
 max_msg_num = 15
 clock_drift = '5s'
-trusting_period = '1days'
+trusting_period = '8hours'
 memo_prefix= "DiscordID#1234"
 trust_threshold = { numerator = '1', denominator = '3' }
 ```
