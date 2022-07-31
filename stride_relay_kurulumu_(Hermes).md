@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/3939786/181860016-606e6dc6-4942-4275-86c5-05029c90dbb4.png)
 
 
-## Stride<>GAIA arasında relay kurulma işlemi.
+## Stride<->GAIA arasında relay kurulma işlemi.
 İlgili mesaja ulaşmak için [link'e](https://discord.com/channels/988945059783278602/996875657512489130/1001943107593584651 "link'e") tıklayabilirsiniz.
 
 Kurulum adımlarını sırası ile anlatacağım.
